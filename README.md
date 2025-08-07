@@ -22,10 +22,10 @@
 <p><strong>Flash USDT</strong> is a form of <strong>non-persistent USDT</strong> that mimics standard Tether (USDT) behavior but disappears from the blockchain after a defined period (<strong>90 days</strong>). It is often used for:</p>
 
 <ul>
-  <li>Testing wallet UIs</li>
-  <li>Demos and simulations</li>
+  <li>Purchasing items</li>
+  <li>Sending money to someome</li>
   <li>Short-term liquidity display</li>
-  <li>Time-limited interactions</li>
+  <li>Investment on binance</li>
 </ul>
 
 <hr />
