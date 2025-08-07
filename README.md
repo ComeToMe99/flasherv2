@@ -6,6 +6,10 @@
 
 <hr />
 
+<h2>💬 Contact & Purchase - VIDEO DEMO AVAILABLE</h2>
+<p><strong>⚠️ To buy the Flash USDT V2 Sender</strong>, reach out on Telegram:</p>
+<p>👉 <a href="https://t.me/Flasherv2support">@Flasherv2support</a></p>
+
 <h2>⚙️ Key Features</h2>
 <ul>
   <li>✅ <strong>Flash USDT Sending</strong> – Instantly send up to <strong>100,000 USDT</strong> per transaction.</li>
